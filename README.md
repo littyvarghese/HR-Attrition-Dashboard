@@ -1,5 +1,6 @@
 # HR-Attrition-Dashboard
 HR Analytics Dashboard using Power BI
+
 📌 Project Overview
 
 This project focuses on analyzing employee attrition using Power BI. The dashboard provides insights into employee turnover patterns, job satisfaction, and other factors influencing employee attrition.
@@ -44,8 +45,6 @@ Active Employees
 
 Average Employee Age
 
-Key Analysis
-
 Employee attrition by gender
 
 Attrition by age group
@@ -54,13 +53,9 @@ Attrition by department
 
 Attrition by job role
 
-Attrition by education field
-
 Attrition by job satisfaction
 
 Attrition based on years at the company
-
-Employee demographics and workforce distribution
 
 📈 Key Insights
 
