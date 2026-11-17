@@ -37,13 +37,13 @@ The dashboard includes the following key performance indicators (KPIs):
 
 Total Employees
 
-Attrition Count
+Attrition Cost
 
 Attrition Rate
 
 Active Employees
 
-Average Employee Age
+Employees left
 
 Employee attrition by gender
 
@@ -54,6 +54,12 @@ Attrition by department
 Attrition by job role
 
 Attrition by job satisfaction
+
+Attrition by marital status
+
+Attrition by salary range
+
+Attrition by overtime
 
 Attrition based on years at the company
 
@@ -71,4 +77,3 @@ Differences in attrition across gender groups.
 
 The impact of job satisfaction on employee retention.
 
-Employee tenure patterns associated with attrition.
